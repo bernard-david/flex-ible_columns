@@ -1,0 +1,33 @@
+* {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row {
+    display: flex;
+}
+.col {
+    background-color: seagreen;
+    height: 5em;
+    width: 100%;
+    padding: 1em;
+    margin: 1em 1em;
+    flex: 1;
+}
+.col-2 {
+    background-color: seagreen;
+    height: 5em;
+    width: 100%;
+    padding: 1em;
+    margin: 1em 1em;
+    flex: 2;
+}
+.col-3 {
+    background-color: seagreen;
+    height: 5em;
+    width: 100%;
+    padding: 1em;
+    margin: 1em 1em;
+    flex: 3;
+}
